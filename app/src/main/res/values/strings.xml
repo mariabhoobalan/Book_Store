@@ -1,0 +1,13 @@
+<resources>
+    <string name="search_string">Enter search string</string>
+    <string name="app_name">Book Store</string>
+    <string name="Image_Content">Search Icon</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="retreive_books">Retrieving Google Books</string>
+    <string name="no_books">No books found.</string>
+    <string name="Author"> Author   :</string>
+    <string name="NoAuthor"> Author list not found</string>
+    <string name="EnterSearch">Enter a search string</string>
+
+
+</resources>
